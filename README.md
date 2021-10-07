@@ -1,2 +1,2 @@
-# ufsj-Data-Science
-TECNOLOGIAS PARA DATA SCIENCE - Turma: SPCOI e TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL
+# UFSJ-Data-Science
+Tecnologias para Data Science - Turma: SPCOI e Tópicos Especiais em Inteligência Computacional
