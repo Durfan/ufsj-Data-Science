@@ -7,3 +7,6 @@ migrations/
 .vscode/
 .venv/
 .env
+
+sentences.index
+embedding_cache.pkl
